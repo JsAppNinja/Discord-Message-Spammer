@@ -4,11 +4,6 @@
 1. This bot can send messages to all users of the discord server. Could be used for mailing, supports attachment of images, gifs, files.
 2. Has convenient API which lets to send requests for sending messages to users outside of discord. Could be used for letting you to send messages from your website or setup notification system.
 
-### Notation
-If you are interested in collaboration, message here:
-<p>Telegram: @Nikita1264</p>
-<p>Discord: fley0609</p>
-
 ## How to Start
 
 Application is made on NodeJS so to use the script, you need to download it from official website [here](https://nodejs.org/en).
